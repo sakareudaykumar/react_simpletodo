@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.container1 {
+  list-style-type: none;
+  display: flex;
+
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+  color: #ff0b37;
+  background-color: #ffffff;
+  outline: none;
+  height: 30px;
+  width: 150px;
+  border-color: #ff0b37;
+  padding: 3px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
